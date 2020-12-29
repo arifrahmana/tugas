@@ -8,7 +8,7 @@
 </head>
 <body>
 	<div class="container">
-		<div class="alert alert-info"><a href="https://shimozuki.github.io/"></a>Data Dosen</div>
+		<div class="alert alert-info"><a href="https://shimozuki.github.io/">Data Dosen</a></div>
 		<table class="table table-bordered">
 			<thead>
 				<tr>
